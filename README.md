@@ -17,7 +17,7 @@ This function outputs the datas to the file descriptor STDOUT and return the tot
 | ft_putstr_fd  | Outputs the string 's' to the file descriptor 'fd'. |
 | ft_strlen | Find length of string. |
 
-#### Ft_printf functions
+### Ft_printf functions
 
 | Function      | Description                                                                           |
 | ------------- | --------------------------------------------------------------------------------------| 
